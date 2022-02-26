@@ -1,0 +1,16 @@
+
+
+<!-- Person tags -->
+<person>
+    <name>
+        <fist>John</fist>
+        <last>Smith</last>
+    </name>
+    <age>20</age>
+    <gender>Male</gender>
+    <education>university</education>
+    <addres>18, coobowie st QLD4018</addres>
+    <suburb>Broadbeach Waters</suburb>
+    <city>Gold Coast</city>
+    <state>QLD</state>
+</person>

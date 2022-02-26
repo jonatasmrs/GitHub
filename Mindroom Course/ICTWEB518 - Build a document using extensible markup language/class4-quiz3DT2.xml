@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ns1:svg [
+    <!ELEMENT ns1:svg (ns1:defs,ns1:g)>
+    <!ATTLIST ns1:svg xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg' height CDATA #REQUIRED overflow NMTOKEN #REQUIRED width CDATA #REQUIRED>
+
+    <!ELEMENT ns1:defs (ns1:clipPath)>
+    <!ATTLIST ns1:defs xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg'>
+        
+    <!ELEMENT ns1:g (ns1:path)>
+    <!ATTLIST ns1:g xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg' clip-path CDATA #REQUIRED transform CDATA #REQUIRED>
+
+    <!ELEMENT ns1:clipPath (ns1:rect)>
+    <!ATTLIST ns1:clipPath xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg' id NMTOKEN #REQUIRED>
+
+    <!ELEMENT ns1:path EMPTY>
+    <!ATTLIST ns1:path xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg' d CDATA #REQUIRED transform CDATA #REQUIRED>
+
+    <!ELEMENT ns1:rect EMPTY>
+    <!ATTLIST ns1:rect xmlns:ns1 CDATA #FIXED 
+        'http://www.w3.org/2000/svg' height CDATA #REQUIRED width CDATA #REQUIRED x CDATA #REQUIRED y CDATA #REQUIRED>
+]>
+<ns1:svg height="1" overflow="1" width="1">
+    <ns1:defs>
+        <ns1:clipPath id="1">
+            <ns1:rect height="1" width="1" x="1" y="1"></ns1:rect>
+        </ns1:clipPath>
+    </ns1:defs>
+    <ns1:g clip-path= "1" transform="1" >
+        <ns1:path d="1" transform="1"></ns1:path>
+    </ns1:g>
+</ns1:svg>

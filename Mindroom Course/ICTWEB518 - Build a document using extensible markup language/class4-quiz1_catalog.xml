@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "class4-quiz1_catalog.DTD">
+<catalog>
+    <book id='bk101'>
+        <author>Garghentini, Davide</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price>44.95</price>
+        <publish_data>2010-01-01</publish_data>
+        <description>An in-dept look at creating applications with XML</description>
+    </book>
+</catalog>

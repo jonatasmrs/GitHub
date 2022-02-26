@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    height: 100vh;
+    background-color: grey;
+}
+
+.students {
+    height: 5vh;
+    background-color: red;
+}
+
+.students h4 {
+    padding-left: 2vh;
+    padding-top: 1vh;
+    /*margin-left: 15vh; */
+}
+
+.students a {
+    float: right;
+    padding-right: 2vw;
+    padding-top: 1vh;
+    text-decoration: none;
+    color: black;
+}
+
+.students a:hover {
+    color: white;
+}
+
+.nav {
+    height: 10vh;
+    background-color: white;
+    font-size: 1.5em;
+    padding-left: 5vw;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    padding-left: 2vw;
+}
+
+.nav a:hover {
+    color: red;
+}
+
+.logo {
+    height: 5vh;
+}
+
+.sidebar {
+    width: 25vw;
+    height: 85vh;
+    background-color: azure;
+    padding-top: 5vh;
+}
+
+.info {
+    height: 25vh;
+    background-color: wheat;
+    text-align: center;
+    padding: 5px;
+    padding-top: 5vh;
+}
+
+.news {
+    height: 25vh;
+    background-color: beige;
+    text-align: center;
+    padding: 5px;
+    padding-top: 5vh;
+}
+
+.events {
+    height: 25vh;
+    background-color: bisque;
+    text-align: center;
+    padding: 5px;
+    padding-top: 5vh;
+}
+
+.banner {
+    height: 85vh;
+    width: 75vw;
+    background-image: url("images/mindroombackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    float: right;
+}
+
+footer {
+    height: 2.5vh;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    text-align: center;
+}

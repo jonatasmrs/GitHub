@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource_data>
+    <planets>
+        <planet name="Yavin" swgcraft_id="1">
+            <resources>
+                <resource swgcraft_id="2318874">
+                    <name>Choho</name>
+                    <type>Yavin Conifer Wood</type>
+                    <swgcraft_type_id>cocwd</swgcraft_type_id>
+                    <dr>441</dr>
+                    <ma>635</ma>
+                    <oq>706</oq>
+                    <sr>382</sr>
+                    <ut>297</ut>
+                    <available_swgcraft_id>2770858</available_swgcraft_id>
+                    <available_timestamp>1631437218</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318203">
+                    <name>Soafeia</name>
+                    <type>Rhodium Steel</type>
+                    <swgcraft_type_id>rhstl</swgcraft_type_id>
+                    <cr>97</cr>
+                    <cd>60</cd>
+                    <dr>554</dr>
+                    <hr>620</hr>
+                    <ma>44</ma>
+                    <oq>681</oq>
+                    <sr>520</sr>
+                    <ut>455</ut>
+                    <available_swgcraft_id>2769649</available_swgcraft_id>
+                    <available_timestamp>1631300417</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318876">
+                    <name>Athovae</name>
+                    <type>Yavin Scaley Hide</type>
+                    <swgcraft_type_id>coshd</swgcraft_type_id>
+                    <dr>485</dr>
+                    <ma>435</ma>
+                    <oq>877</oq>
+                    <sr>433</sr>
+                    <ut>956</ut>
+                    <available_swgcraft_id>2770860</available_swgcraft_id>
+                    <available_timestamp>1631444406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318357">
+                    <name>Steesmareene</name>
+                    <type>Skevon Reactive Gas</type>
+                    <swgcraft_type_id>skktv</swgcraft_type_id>
+                    <dr>543</dr>
+                    <oq>930</oq>
+                    <available_swgcraft_id>2769889</available_swgcraft_id>
+                    <available_timestamp>1631354442</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320548">
+                    <name>Megomeris</name>
+                    <type>Laboi Mineral Crystal Crystalline Gemstone</type>
+                    <swgcraft_type_id>lacry</swgcraft_type_id>
+                    <er>909</er>
+                    <cr>804</cr>
+                    <dr>770</dr>
+                    <hr>915</hr>
+                    <ma>358</ma>
+                    <oq>147</oq>
+                    <sr>843</sr>
+                    <ut>869</ut>
+                    <available_swgcraft_id>2773551</available_swgcraft_id>
+                    <available_timestamp>1631703607</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2316126">
+                    <name>Narapi</name>
+                    <type>Yavin Vegetable Greens</type>
+                    <swgcraft_type_id>cogrn</swgcraft_type_id>
+                    <dr>390</dr>
+                    <fl>654</fl>
+                    <oq>731</oq>
+                    <pe>992</pe>
+                    <available_swgcraft_id>2766070</available_swgcraft_id>
+                    <available_timestamp>1631012406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318355">
+                    <name>Ryfacausis</name>
+                    <type>Chromium Aluminum</type>
+                    <swgcraft_type_id>chalu</swgcraft_type_id>
+                    <cr>316</cr>
+                    <cd>456</cd>
+                    <dr>281</dr>
+                    <hr>510</hr>
+                    <ma>542</ma>
+                    <oq>160</oq>
+                    <sr>580</sr>
+                    <ut>478</ut>
+                    <available_swgcraft_id>2769873</available_swgcraft_id>
+                    <available_timestamp>1631354433</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317234">
+                    <name>Rorasou</name>
+                    <type>Yavin Avian Meat</type>
+                    <swgcraft_type_id>coamt</swgcraft_type_id>
+                    <dr>740</dr>
+                    <fl>105</fl>
+                    <oq>230</oq>
+                    <pe>515</pe>
+                    <available_swgcraft_id>2767987</available_swgcraft_id>
+                    <available_timestamp>1631185206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2316637">
+                    <name>Heori</name>
+                    <type>Diatium Copper</type>
+                    <swgcraft_type_id>dicpr</swgcraft_type_id>
+                    <cr>390</cr>
+                    <cd>785</cd>
+                    <dr>350</dr>
+                    <hr>400</hr>
+                    <ma>762</ma>
+                    <oq>277</oq>
+                    <sr>563</sr>
+                    <ut>519</ut>
+                    <available_swgcraft_id>2767017</available_swgcraft_id>
+                    <available_timestamp>1631048446</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318804">
+                    <name>Opelee</name>
+                    <type>Regvis Amorphous Gemstone</type>
+                    <swgcraft_type_id>reamo</swgcraft_type_id>
+                    <er>217</er>
+                    <cr>221</cr>
+                    <dr>297</dr>
+                    <hr>675</hr>
+                    <ma>160</ma>
+                    <oq>329</oq>
+                    <sr>244</sr>
+                    <ut>278</ut>
+                    <available_swgcraft_id>2770767</available_swgcraft_id>
+                    <available_timestamp>1631390419</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313625">
+                    <name>Osany</name>
+                    <type>Yavin Carnivore Meat</type>
+                    <swgcraft_type_id>cocmt</swgcraft_type_id>
+                    <dr>755</dr>
+                    <fl>670</fl>
+                    <oq>299</oq>
+                    <pe>868</pe>
+                    <available_swgcraft_id>2761847</available_swgcraft_id>
+                    <available_timestamp>1630580405</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320885">
+                    <name>Rkasquiine</name>
+                    <type>Polymer</type>
+                    <swgcraft_type_id>pol</swgcraft_type_id>
+                    <dr>800</dr>
+                    <ma>891</ma>
+                    <oq>54</oq>
+                    <sr>109</sr>
+                    <ut>92</ut>
+                    <available_swgcraft_id>2774064</available_swgcraft_id>
+                    <available_timestamp>1631725245</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318878">
+                    <name>Poheospooiam</name>
+                    <type>Hydron-3 Inert Gas</type>
+                    <swgcraft_type_id>h3krt</swgcraft_type_id>
+                    <dr>13</dr>
+                    <oq>547</oq>
+                    <available_swgcraft_id>2770862</available_swgcraft_id>
+                    <available_timestamp>1631444406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317235">
+                    <name>Butro</name>
+                    <type>Yavin Leathery Hide</type>
+                    <swgcraft_type_id>colhd</swgcraft_type_id>
+                    <dr>34</dr>
+                    <ma>968</ma>
+                    <oq>590</oq>
+                    <sr>313</sr>
+                    <ut>333</ut>
+                    <available_swgcraft_id>2767988</available_swgcraft_id>
+                    <available_timestamp>1631185206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2311220">
+                    <name>Pegme</name>
+                    <type>Yavin Domesticated Wheat</type>
+                    <swgcraft_type_id>codwt</swgcraft_type_id>
+                    <dr>655</dr>
+                    <fl>698</fl>
+                    <oq>356</oq>
+                    <pe>461</pe>
+                    <available_swgcraft_id>2757713</available_swgcraft_id>
+                    <available_timestamp>1630177214</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317111">
+                    <name>Cooliian</name>
+                    <type>Duralloy Steel</type>
+                    <swgcraft_type_id>dlstl</swgcraft_type_id>
+                    <cr>734</cr>
+                    <cd>647</cd>
+                    <dr>965</dr>
+                    <hr>948</hr>
+                    <ma>374</ma>
+                    <oq>415</oq>
+                    <sr>985</sr>
+                    <ut>941</ut>
+                    <available_swgcraft_id>2767754</available_swgcraft_id>
+                    <available_timestamp>1631134839</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2314088">
+                    <name>Pardie</name>
+                    <type>Yavin Vegetable Fungus</type>
+                    <swgcraft_type_id>cofgs</swgcraft_type_id>
+                    <dr>741</dr>
+                    <fl>913</fl>
+                    <oq>201</oq>
+                    <pe>155</pe>
+                    <available_swgcraft_id>2762755</available_swgcraft_id>
+                    <available_timestamp>1630612827</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319875">
+                    <name>Dislama</name>
+                    <type>Lubricating Oil</type>
+                    <swgcraft_type_id>lub</swgcraft_type_id>
+                    <dr>107</dr>
+                    <oq>180</oq>
+                    <available_swgcraft_id>2772385</available_swgcraft_id>
+                    <available_timestamp>1631617207</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313626">
+                    <name>Smeale</name>
+                    <type>Yavin Crustacean Meat</type>
+                    <swgcraft_type_id>cotmt</swgcraft_type_id>
+                    <dr>70</dr>
+                    <fl>203</fl>
+                    <oq>742</oq>
+                    <pe>503</pe>
+                    <available_swgcraft_id>2761848</available_swgcraft_id>
+                    <available_timestamp>1630580405</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319675">
+                    <name>Boleiam</name>
+                    <type>Vintrium Extrusive Ore</type>
+                    <swgcraft_type_id>viext</swgcraft_type_id>
+                    <cr>947</cr>
+                    <dr>997</dr>
+                    <hr>941</hr>
+                    <ma>573</ma>
+                    <oq>819</oq>
+                    <sr>993</sr>
+                    <ut>947</ut>
+                    <available_swgcraft_id>2772108</available_swgcraft_id>
+                    <available_timestamp>1631552434</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317236">
+                    <name>Sepeva</name>
+                    <type>Yavin Wild Meat</type>
+                    <swgcraft_type_id>cowmt</swgcraft_type_id>
+                    <dr>239</dr>
+                    <fl>155</fl>
+                    <oq>405</oq>
+                    <pe>553</pe>
+                    <available_swgcraft_id>2767989</available_swgcraft_id>
+                    <available_timestamp>1631185206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320890">
+                    <name>Nacifo</name>
+                    <type>Alantium Carbonate Ore</type>
+                    <swgcraft_type_id>alcrb</swgcraft_type_id>
+                    <cr>350</cr>
+                    <dr>40</dr>
+                    <hr>481</hr>
+                    <ma>301</ma>
+                    <oq>634</oq>
+                    <sr>1</sr>
+                    <ut>280</ut>
+                    <available_swgcraft_id>2774082</available_swgcraft_id>
+                    <available_timestamp>1631725256</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313627">
+                    <name>Leeho</name>
+                    <type>Yavin Domesticated Corn</type>
+                    <swgcraft_type_id>codcn</swgcraft_type_id>
+                    <dr>880</dr>
+                    <fl>131</fl>
+                    <oq>105</oq>
+                    <pe>906</pe>
+                    <available_swgcraft_id>2761849</available_swgcraft_id>
+                    <available_timestamp>1630580405</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2315266">
+                    <name>Wriwee</name>
+                    <type>Corellia Berry Fruit</type>
+                    <swgcraft_type_id>cober</swgcraft_type_id>
+                    <dr>529</dr>
+                    <fl>465</fl>
+                    <oq>709</oq>
+                    <pe>356</pe>
+                    <available_swgcraft_id>2764576</available_swgcraft_id>
+                    <available_timestamp>1630832415</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317681">
+                    <name>Paipaide</name>
+                    <type>Chromium Aluminum</type>
+                    <swgcraft_type_id>chalu</swgcraft_type_id>
+                    <cr>421</cr>
+                    <cd>500</cd>
+                    <dr>368</dr>
+                    <hr>377</hr>
+                    <ma>623</ma>
+                    <oq>945</oq>
+                    <sr>493</sr>
+                    <ut>505</ut>
+                    <available_swgcraft_id>2768802</available_swgcraft_id>
+                    <available_timestamp>1631271606</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320451">
+                    <name>Bocaide</name>
+                    <type>Quadranium Steel</type>
+                    <swgcraft_type_id>qustl</swgcraft_type_id>
+                    <cr>539</cr>
+                    <cd>440</cd>
+                    <dr>839</dr>
+                    <hr>890</hr>
+                    <ma>281</ma>
+                    <oq>466</oq>
+                    <sr>879</sr>
+                    <ut>849</ut>
+                    <available_swgcraft_id>2773323</available_swgcraft_id>
+                    <available_timestamp>1631649627</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2314825">
+                    <name>Bovai</name>
+                    <type>Yavin Insect Meat</type>
+                    <swgcraft_type_id>coimt</swgcraft_type_id>
+                    <dr>719</dr>
+                    <fl>795</fl>
+                    <oq>765</oq>
+                    <pe>623</pe>
+                    <available_swgcraft_id>2763913</available_swgcraft_id>
+                    <available_timestamp>1630753205</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317657">
+                    <name>Llogoic</name>
+                    <type>Diatium Copper</type>
+                    <swgcraft_type_id>dicpr</swgcraft_type_id>
+                    <cr>417</cr>
+                    <cd>711</cd>
+                    <dr>409</dr>
+                    <hr>437</hr>
+                    <ma>793</ma>
+                    <oq>934</oq>
+                    <sr>550</sr>
+                    <ut>527</ut>
+                    <available_swgcraft_id>2768754</available_swgcraft_id>
+                    <available_timestamp>1631224827</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2310037">
+                    <name>Ldauwowu</name>
+                    <type>Yavin Domesticated Meat</type>
+                    <swgcraft_type_id>codmt</swgcraft_type_id>
+                    <dr>192</dr>
+                    <fl>814</fl>
+                    <oq>545</oq>
+                    <pe>481</pe>
+                    <available_swgcraft_id>2755823</available_swgcraft_id>
+                    <available_timestamp>1630062006</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313629">
+                    <name>Waerzea</name>
+                    <type>Yavin Fish Meat</type>
+                    <swgcraft_type_id>cofmt</swgcraft_type_id>
+                    <dr>247</dr>
+                    <fl>302</fl>
+                    <oq>612</oq>
+                    <pe>240</pe>
+                    <available_swgcraft_id>2761851</available_swgcraft_id>
+                    <available_timestamp>1630580405</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319868">
+                    <name>Hihou</name>
+                    <type>Yavin Avian Bones</type>
+                    <swgcraft_type_id>covbn</swgcraft_type_id>
+                    <dr>363</dr>
+                    <ma>163</ma>
+                    <oq>903</oq>
+                    <sr>335</sr>
+                    <ut>77</ut>
+                    <available_swgcraft_id>2772372</available_swgcraft_id>
+                    <available_timestamp>1631617206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2321442">
+                    <name>Srieme</name>
+                    <type>Corellia Fiberplast</type>
+                    <swgcraft_type_id>cofib</swgcraft_type_id>
+                    <dr>490</dr>
+                    <ma>965</ma>
+                    <oq>344</oq>
+                    <sr>518</sr>
+                    <ut>218</ut>
+                    <available_swgcraft_id>2775082</available_swgcraft_id>
+                    <available_timestamp>1631822421</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313033">
+                    <name>Leproki</name>
+                    <type>Yavin Deciduous Wood</type>
+                    <swgcraft_type_id>codwd</swgcraft_type_id>
+                    <dr>216</dr>
+                    <ma>596</ma>
+                    <oq>204</oq>
+                    <sr>312</sr>
+                    <ut>257</ut>
+                    <available_swgcraft_id>2760762</available_swgcraft_id>
+                    <available_timestamp>1630440029</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319665">
+                    <name>Foode</name>
+                    <type>Yavin Vegetable Beans</type>
+                    <swgcraft_type_id>cobns</swgcraft_type_id>
+                    <dr>761</dr>
+                    <fl>371</fl>
+                    <oq>718</oq>
+                    <pe>515</pe>
+                    <available_swgcraft_id>2772096</available_swgcraft_id>
+                    <available_timestamp>1631552426</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318866">
+                    <name>Koedo</name>
+                    <type>Yavin Wild Corn</type>
+                    <swgcraft_type_id>cowcn</swgcraft_type_id>
+                    <dr>445</dr>
+                    <fl>975</fl>
+                    <oq>2</oq>
+                    <pe>588</pe>
+                    <available_swgcraft_id>2770850</available_swgcraft_id>
+                    <available_timestamp>1631437212</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2321427">
+                    <name>Drouneo</name>
+                    <type>Yavin Domesticated Oats</type>
+                    <swgcraft_type_id>codot</swgcraft_type_id>
+                    <dr>109</dr>
+                    <fl>322</fl>
+                    <oq>362</oq>
+                    <pe>888</pe>
+                    <available_swgcraft_id>2775067</available_swgcraft_id>
+                    <available_timestamp>1631822412</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318342">
+                    <name>Mopaba</name>
+                    <type>Yavin Wild Oats</type>
+                    <swgcraft_type_id>cowot</swgcraft_type_id>
+                    <dr>812</dr>
+                    <fl>936</fl>
+                    <oq>774</oq>
+                    <pe>220</pe>
+                    <available_swgcraft_id>2769847</available_swgcraft_id>
+                    <available_timestamp>1631354417</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313631">
+                    <name>Techra</name>
+                    <type>Yavin Mollusk Meat</type>
+                    <swgcraft_type_id>commt</swgcraft_type_id>
+                    <dr>556</dr>
+                    <fl>155</fl>
+                    <oq>683</oq>
+                    <pe>142</pe>
+                    <available_swgcraft_id>2761853</available_swgcraft_id>
+                    <available_timestamp>1630580406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319869">
+                    <name>Ietasa</name>
+                    <type>Yavin Bristley Hide</type>
+                    <swgcraft_type_id>cobhd</swgcraft_type_id>
+                    <dr>185</dr>
+                    <ma>98</ma>
+                    <oq>11</oq>
+                    <sr>549</sr>
+                    <ut>62</ut>
+                    <available_swgcraft_id>2772373</available_swgcraft_id>
+                    <available_timestamp>1631617206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320444">
+                    <name>Wrada</name>
+                    <type>Yavin Domesticated Rice</type>
+                    <swgcraft_type_id>codrc</swgcraft_type_id>
+                    <dr>670</dr>
+                    <fl>86</fl>
+                    <oq>323</oq>
+                    <pe>606</pe>
+                    <available_swgcraft_id>2773309</available_swgcraft_id>
+                    <available_timestamp>1631649617</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2313632">
+                    <name>Setoium</name>
+                    <type>Yavin Wind Renewable Energy</type>
+                    <swgcraft_type_id>coweg</swgcraft_type_id>
+                    <oq>500</oq>
+                    <pe>277</pe>
+                    <available_swgcraft_id>2761854</available_swgcraft_id>
+                    <available_timestamp>1630580406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319870">
+                    <name>Tageega</name>
+                    <type>Yavin Vegetable Tubers</type>
+                    <swgcraft_type_id>cotub</swgcraft_type_id>
+                    <dr>838</dr>
+                    <fl>729</fl>
+                    <oq>419</oq>
+                    <pe>675</pe>
+                    <available_swgcraft_id>2772374</available_swgcraft_id>
+                    <available_timestamp>1631617206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318868">
+                    <name>Weetoaro</name>
+                    <type>Yavin Wild Rice</type>
+                    <swgcraft_type_id>cowrc</swgcraft_type_id>
+                    <dr>418</dr>
+                    <fl>743</fl>
+                    <oq>463</oq>
+                    <pe>617</pe>
+                    <available_swgcraft_id>2770852</available_swgcraft_id>
+                    <available_timestamp>1631437214</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2310734">
+                    <name>Acy</name>
+                    <type>Yavin Domesticated Milk</type>
+                    <swgcraft_type_id>codmk</swgcraft_type_id>
+                    <dr>676</dr>
+                    <fl>685</fl>
+                    <oq>531</oq>
+                    <pe>861</pe>
+                    <available_swgcraft_id>2756808</available_swgcraft_id>
+                    <available_timestamp>1630148406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319330">
+                    <name>Cisrei</name>
+                    <type>Yavin Wild Wheat</type>
+                    <swgcraft_type_id>cowwt</swgcraft_type_id>
+                    <dr>950</dr>
+                    <fl>365</fl>
+                    <oq>356</oq>
+                    <pe>351</pe>
+                    <available_swgcraft_id>2771597</available_swgcraft_id>
+                    <available_timestamp>1631530806</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320886">
+                    <name>Vaorkie</name>
+                    <type>Yavin Water Vapor</type>
+                    <swgcraft_type_id>cowtr</swgcraft_type_id>
+                    <dr>580</dr>
+                    <oq>858</oq>
+                    <available_swgcraft_id>2774070</available_swgcraft_id>
+                    <available_timestamp>1631725249</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320454">
+                    <name>Ewoofiine</name>
+                    <type>Colat Iron</type>
+                    <swgcraft_type_id>coirn</swgcraft_type_id>
+                    <cr>419</cr>
+                    <cd>267</cd>
+                    <dr>650</dr>
+                    <hr>737</hr>
+                    <ma>323</ma>
+                    <oq>116</oq>
+                    <sr>728</sr>
+                    <ut>794</ut>
+                    <available_swgcraft_id>2773342</available_swgcraft_id>
+                    <available_timestamp>1631649639</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2316762">
+                    <name>Twavi</name>
+                    <type>Yavin Wooly Hide</type>
+                    <swgcraft_type_id>cowhd</swgcraft_type_id>
+                    <dr>324</dr>
+                    <ma>746</ma>
+                    <oq>871</oq>
+                    <sr>867</sr>
+                    <ut>885</ut>
+                    <available_swgcraft_id>2767185</available_swgcraft_id>
+                    <available_timestamp>1631098806</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2315635">
+                    <name>Dioba</name>
+                    <type>Yavin Egg</type>
+                    <swgcraft_type_id>coegg</swgcraft_type_id>
+                    <dr>728</dr>
+                    <fl>581</fl>
+                    <oq>975</oq>
+                    <pe>934</pe>
+                    <available_swgcraft_id>2765244</available_swgcraft_id>
+                    <available_timestamp>1630926005</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320884">
+                    <name>Eepreneian</name>
+                    <type>Lubricating Oil</type>
+                    <swgcraft_type_id>lub</swgcraft_type_id>
+                    <dr>844</dr>
+                    <oq>834</oq>
+                    <available_swgcraft_id>2774056</available_swgcraft_id>
+                    <available_timestamp>1631725239</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2316638">
+                    <name>Okefeate</name>
+                    <type>Bospridium Amorphous Gemstone</type>
+                    <swgcraft_type_id>boamo</swgcraft_type_id>
+                    <er>47</er>
+                    <cr>72</cr>
+                    <dr>93</dr>
+                    <hr>604</hr>
+                    <ma>26</ma>
+                    <oq>168</oq>
+                    <sr>31</sr>
+                    <ut>103</ut>
+                    <available_swgcraft_id>2767024</available_swgcraft_id>
+                    <available_timestamp>1631048450</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317233">
+                    <name>Kolauite</name>
+                    <type>Carbonite Steel</type>
+                    <swgcraft_type_id>cbstl</swgcraft_type_id>
+                    <cr>675</cr>
+                    <cd>543</cd>
+                    <dr>897</dr>
+                    <hr>965</hr>
+                    <ma>363</ma>
+                    <oq>955</oq>
+                    <sr>935</sr>
+                    <ut>909</ut>
+                    <available_swgcraft_id>2767979</available_swgcraft_id>
+                    <available_timestamp>1631185203</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2310736">
+                    <name>Sorai</name>
+                    <type>Yavin Herbivore Meat</type>
+                    <swgcraft_type_id>cohmt</swgcraft_type_id>
+                    <dr>810</dr>
+                    <fl>377</fl>
+                    <oq>477</oq>
+                    <pe>356</pe>
+                    <available_swgcraft_id>2756810</available_swgcraft_id>
+                    <available_timestamp>1630148406</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317644">
+                    <name>Aceuswa</name>
+                    <type>Yavin Fruit</type>
+                    <swgcraft_type_id>cofts</swgcraft_type_id>
+                    <dr>300</dr>
+                    <fl>139</fl>
+                    <oq>185</oq>
+                    <pe>299</pe>
+                    <available_swgcraft_id>2768738</available_swgcraft_id>
+                    <available_timestamp>1631224817</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318356">
+                    <name>Charaiene</name>
+                    <type>Skevon Reactive Gas</type>
+                    <swgcraft_type_id>skktv</swgcraft_type_id>
+                    <dr>824</dr>
+                    <oq>590</oq>
+                    <available_swgcraft_id>2769881</available_swgcraft_id>
+                    <available_timestamp>1631354438</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2319873">
+                    <name>Gecaism</name>
+                    <type>Diatium Copper</type>
+                    <swgcraft_type_id>dicpr</swgcraft_type_id>
+                    <cr>386</cr>
+                    <cd>728</cd>
+                    <dr>373</dr>
+                    <hr>438</hr>
+                    <ma>763</ma>
+                    <oq>546</oq>
+                    <sr>562</sr>
+                    <ut>562</ut>
+                    <available_swgcraft_id>2772377</available_swgcraft_id>
+                    <available_timestamp>1631617206</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318879">
+                    <name>Mepeneiite</name>
+                    <type>Stygium Amorphous Gemstone</type>
+                    <swgcraft_type_id>stamo</swgcraft_type_id>
+                    <er>550</er>
+                    <cr>765</cr>
+                    <dr>755</dr>
+                    <hr>890</hr>
+                    <ma>432</ma>
+                    <oq>622</oq>
+                    <sr>803</sr>
+                    <ut>814</ut>
+                    <available_swgcraft_id>2770868</available_swgcraft_id>
+                    <available_timestamp>1631444407</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317110">
+                    <name>Touciaism</name>
+                    <type>Class 6 Radioactive</type>
+                    <swgcraft_type_id>c6krd</swgcraft_type_id>
+                    <dr>696</dr>
+                    <oq>900</oq>
+                    <pe>856</pe>
+                    <available_swgcraft_id>2767745</available_swgcraft_id>
+                    <available_timestamp>1631134833</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320543">
+                    <name>Egike</name>
+                    <type>Yavin Animal Bones</type>
+                    <swgcraft_type_id>coabn</swgcraft_type_id>
+                    <dr>452</dr>
+                    <ma>303</ma>
+                    <oq>478</oq>
+                    <sr>401</sr>
+                    <ut>937</ut>
+                    <available_swgcraft_id>2773545</available_swgcraft_id>
+                    <available_timestamp>1631703606</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2321007">
+                    <name>Hyisra</name>
+                    <type>Corellia Evergreen Wood</type>
+                    <swgcraft_type_id>coewd</swgcraft_type_id>
+                    <dr>489</dr>
+                    <ma>999</ma>
+                    <oq>846</oq>
+                    <sr>88</sr>
+                    <ut>142</ut>
+                    <available_swgcraft_id>2774319</available_swgcraft_id>
+                    <available_timestamp>1631790006</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320544">
+                    <name>Itae</name>
+                    <type>Yavin Wild Milk</type>
+                    <swgcraft_type_id>cowmk</swgcraft_type_id>
+                    <dr>284</dr>
+                    <fl>813</fl>
+                    <oq>682</oq>
+                    <pe>520</pe>
+                    <available_swgcraft_id>2773546</available_swgcraft_id>
+                    <available_timestamp>1631703607</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318206">
+                    <name>Pfesi</name>
+                    <type>Hydron-3 Inert Gas</type>
+                    <swgcraft_type_id>h3krt</swgcraft_type_id>
+                    <dr>52</dr>
+                    <oq>627</oq>
+                    <available_swgcraft_id>2769661</available_swgcraft_id>
+                    <available_timestamp>1631300424</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320552">
+                    <name>Ihaism</name>
+                    <type>Polymer</type>
+                    <swgcraft_type_id>pol</swgcraft_type_id>
+                    <dr>495</dr>
+                    <ma>692</ma>
+                    <oq>216</oq>
+                    <sr>465</sr>
+                    <ut>138</ut>
+                    <available_swgcraft_id>2773562</available_swgcraft_id>
+                    <available_timestamp>1631703608</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320452">
+                    <name>Bofiiam</name>
+                    <type>Quadranium Steel</type>
+                    <swgcraft_type_id>qustl</swgcraft_type_id>
+                    <cr>584</cr>
+                    <cd>537</cd>
+                    <dr>846</dr>
+                    <hr>876</hr>
+                    <ma>313</ma>
+                    <oq>269</oq>
+                    <sr>912</sr>
+                    <ut>868</ut>
+                    <available_swgcraft_id>2773331</available_swgcraft_id>
+                    <available_timestamp>1631649632</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2318348">
+                    <name>Saotate</name>
+                    <type>Corellia Flower Fruit</type>
+                    <swgcraft_type_id>coflr</swgcraft_type_id>
+                    <dr>182</dr>
+                    <fl>22</fl>
+                    <oq>458</oq>
+                    <pe>519</pe>
+                    <available_swgcraft_id>2769853</available_swgcraft_id>
+                    <available_timestamp>1631354421</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2317680">
+                    <name>Vvevikyate</name>
+                    <type>Bal'ta'ran Crystal Amorphous Gemstone</type>
+                    <swgcraft_type_id>baamo</swgcraft_type_id>
+                    <er>732</er>
+                    <cr>973</cr>
+                    <dr>914</dr>
+                    <hr>986</hr>
+                    <ma>555</ma>
+                    <oq>180</oq>
+                    <sr>911</sr>
+                    <ut>984</ut>
+                    <available_swgcraft_id>2768793</available_swgcraft_id>
+                    <available_timestamp>1631271603</available_timestamp>
+                    <available_by>SWGCraft Parser</available_by>
+                    <available_by_swgcraft_id>124</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2320450">
+                    <name>Nihaula</name>
+                    <type>Class 3 Radioactive</type>
+                    <swgcraft_type_id>c3krd</swgcraft_type_id>
+                    <dr>584</dr>
+                    <oq>311</oq>
+                    <pe>722</pe>
+                    <available_swgcraft_id>2773315</available_swgcraft_id>
+                    <available_timestamp>1631649621</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+                <resource swgcraft_id="2316636">
+                    <name>Vavauneism</name>
+                    <type>Kammris Iron</type>
+                    <swgcraft_type_id>kairn</swgcraft_type_id>
+                    <cr>758</cr>
+                    <cd>477</cd>
+                    <dr>902</dr>
+                    <hr>937</hr>
+                    <ma>556</ma>
+                    <oq>197</oq>
+                    <sr>921</sr>
+                    <ut>936</ut>
+                    <available_swgcraft_id>2767012</available_swgcraft_id>
+                    <available_timestamp>1631048443</available_timestamp>
+                    <available_by>SwgaideFeed</available_by>
+                    <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+                    <verified>false</verified>
+                </resource>
+            </resources>
+        </planet>
+    </planets>
+</resource_data>
+    

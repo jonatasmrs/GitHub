@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book [
+    <!ELEMENT book (title, author, review, rating)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT review (#PCDATA)>
+    <!ELEMENT rating (#PCDATA)>
+]>
+<book>
+    <title></title>
+    <author></author>
+    <review></review>
+    <rating></rating>
+</book>

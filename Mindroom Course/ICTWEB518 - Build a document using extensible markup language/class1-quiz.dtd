@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT bookshelf (book)+>
+<!ATTLIST bookshelf xmlns CDATA #FIXED ''>
+<!ELEMENT book (Title, Author, Publication_Year, Category, Language, Reference)>
+<!ATTLIST book xmlns CDATA #FIXED '' id CDATA #REQUIRED>
+<!ELEMENT Title (#PCDATA)>
+<!ATTLIST Title xmlns CDATA #FIXED ''>
+<!ELEMENT Author (#PCDATA)>
+<!ATTLIST Author xmlns CDATA #FIXED ''>
+<!ELEMENT Publication_Year (#PCDATA)>
+<!ATTLIST Publication_Year xmlns CDATA #FIXED ''>
+<!ELEMENT Category (#PCDATA)>
+<!ATTLIST Category xmlns CDATA #FIXED ''>
+<!ELEMENT Language (#PCDATA)>
+<!ATTLIST Language xmlns CDATA #FIXED ''>
+<!ELEMENT Reference (#PCDATA)>
+<!ATTLIST Reference xmlns CDATA #FIXED ''>

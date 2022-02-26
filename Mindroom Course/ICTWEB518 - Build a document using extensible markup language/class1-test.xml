@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="xslstyle.xsl" type="text/xsl"?>
+<catalogue>
+    <product>
+        <title>X-Men 1</title>
+        <description>A very very expensive comic</description>
+    </product>
+    <product>
+        <title>Avengers 1</title>
+        <description>A very very expensive comic</description>
+    </product>
+    <product>
+        <title>Batman 1</title>
+        <description>A very expensive comic</description>
+    </product>
+    <product>
+        <title>Superman 1</title>
+        <description>A very very expensive comic</description>
+    </product>
+    <product>
+        <title>Green Lantern 1</title>
+        <description>A expensive comic</description>
+    </product>
+    <product>
+        <title>The Uncanny X-Men 1</title>
+        <description>A very very expensive comic</description>
+    </product>
+</catalogue>

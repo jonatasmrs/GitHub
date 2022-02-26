@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../images/background_leaf.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grid-content {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    width: 100vw;
+    height: 100vh;
+}
+
+.navLeft {
+    grid-area: 1/1/2/7;
+    background-color: dodgerblue;
+}
+
+.logo {
+    grid-area: 1/7/2/11;
+    background-color: tan;
+}
+
+.navRight {
+    grid-area: 1/11/2/17;
+    background-color: dodgerblue;
+}
+
+.ctaMain {
+    grid-area: 2/1/10/9;
+    background-color: green;
+}
+
+.ctaSub1 {
+    grid-area: 2/9/6/13;
+    background-color: orange;
+}
+
+.ctaSub2 {
+    grid-area: 2/13/6/17;
+    background-color: lightcoral;
+}
+
+.ctaSub3 {
+    grid-area: 6/9/10/13;
+    background-color: red;
+}
+
+.ctaSub4 {
+    grid-area: 6/13/10/17;
+    background-color: lightsalmon;
+}
+
+@media screen and (max-width:600px) {
+    .grid-content {
+        height: 200vh;
+        grid-template-rows: repeat(21, 1fr);
+    }
+    .ctaMain {
+        grid-area: 2/1/10/17;
+    }
+    .ctaSub1 {
+        grid-area: 10/1/16/9;
+    }
+    .ctaSub2 {
+        grid-area: 10/9/16/17;
+    }
+    .ctaSub3 {
+        grid-area: 16/1/22/9;
+    }
+    .ctaSub4 {
+        grid-area: 16/9/22/17;
+    }
+}

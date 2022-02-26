@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<stock>
+  <product barcode="123456789">
+    <manufacturer>Silicon Power</manufacturer>
+    <name>Silicon Power 2TB P34A80 Gen3x4 TLC R/W up to 3,400/3,000MB/s PCIe M.2 NVMe SSD</name>
+    <quantity>50</quantity>
+    <size>N/A</size>
+    <colour>N/A</colour>
+    <price>349</price>
+    <description>Silicon Power 2TB P34A80 Gen3x4 TLC R/W up to 3,100/1,100 MB/s PCIe M.2 NVMe SSD</description>
+  </product>
+
+  <product barcode="987654321">
+    <manufacturer>Lian Li</manufacturer>
+    <name> Lian Li PC-O11 Dynamic XL ROG Certified Tempered Glass RGB EATX Case - Black</name>
+    <quantity>10</quantity>
+    <size>471(D)x286(W)x513(H)</size>
+    <colour>N/A</colour>
+    <price>319</price>
+    <description> Lian Li PC-O11 Dynamic XL ROG Certified Tempered Glass RGB EATX Case - Black</description>
+  </product>
+
+</stock>

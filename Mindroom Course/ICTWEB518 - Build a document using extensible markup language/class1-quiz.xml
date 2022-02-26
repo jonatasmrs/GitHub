@@ -1,0 +1,37 @@
+<planet>
+    <resource swgcraft_id="2318203">
+        <name>Soafeia</name>
+        <type>Rhodium Steel</type>
+        <swgcraft_type_id>rhstl</swgcraft_type_id>
+        <cr>97</cr>
+        <cd>60</cd>
+        <dr>554</dr>
+        <hr>620</hr>
+        <ma>44</ma>
+        <oq>681</oq>
+        <sr>520</sr>
+        <ut>455</ut>
+        <available_swgcraft_id>2769649</available_swgcraft_id>
+        <available_timestamp>1631300417</available_timestamp>
+        <available_by>SwgaideFeed</available_by>
+        <available_by_swgcraft_id>18276</available_by_swgcraft_id>
+        <verified>false</verified>
+    </resource>
+    <resource swgcraft_id="2318876">
+        <name>Athovae</name>
+        <type>Corellian Scaley Hide</type>
+        <swgcraft_type_id>coshd</swgcraft_type_id>
+        <dr>485</dr>
+        <ma>435</ma>
+        <oq>877</oq>
+        <sr>433</sr>
+        <ut>956</ut>
+        <available_swgcraft_id>2770860</available_swgcraft_id>
+        <available_timestamp>1631444406</available_timestamp>
+        <available_by>SWGCraft Parser</available_by>
+        <available_by_swgcraft_id>124</available_by_swgcraft_id>
+        <verified>false</verified>
+    </resource>
+    <tutorial id="001"><topic>XML</topic></tutorial>
+
+</planet>

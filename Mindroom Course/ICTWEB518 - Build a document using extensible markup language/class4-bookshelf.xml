@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog [
+    <!ELEMENT catalog (book)+>
+    <!ATTLIST catalog xmlns CDATA ID #FIXED ''>
+    <!ELEMENT book (author, title, author, genre, price, publish_data, description)>
+    <!ATTLIST book xmlns CDATA #FIXED '' id CDATA #REQUIRED>
+    <!ELEMENT author (#PCDATA)>
+    <!ATTLIST author xmlns CDATA #FIXED ''>
+    <!ELEMENT title (#PCDATA)>
+    <!ATTLIST title xmlns CDATA #FIXED ''>
+    <!ELEMENT genre (#PCDATA)>
+    <!ATTLIST genre xmlns CDATA #FIXED ''>
+    <!ELEMENT price (#PCDATA)>
+    <!ATTLIST price xmlns CDATA #FIXED ''>
+    <!ELEMENT publish_data (#PCDATA)>
+    <!ATTLIST publish_data xmlns CDATA #FIXED ''>
+    <!ELEMENT description (#PCDATA)>
+    <!ATTLIST description xmlns CDATA #FIXED ''>
+]>
+<catalog>
+    <book id='bk101'>
+        <author>Garghentini, Davide</author>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price>44.95</price>
+        <publish_data>2010-01-01</publish_data>
+        <description>An in-dept look at creating applications with XML</description>
+    </book>
+</catalog>

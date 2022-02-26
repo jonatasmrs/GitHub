@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookshelf [
+    <!ELEMENT bookshelf (book)+>
+    <!ATTLIST bookshelf xmlns CDATA #FIXED ''>
+    <!ELEMENT book (title, author, review, rating)>
+    <!ATTLIST book xmlns CDATA #FIXED '' id CDATA #REQUIRED>
+    <!ELEMENT title (#PCDATA)>
+    <!ATTLIST title xmlns CDATA #FIXED ''>
+    <!ELEMENT author (#PCDATA)>
+    <!ATTLIST author xmlns CDATA #FIXED ''>
+    <!ELEMENT review (#PCDATA)>
+    <!ATTLIST review xmlns CDATA #FIXED ''>
+    <!ELEMENT rating (#PCDATA)>
+    <!ATTLIST rating xmlns CDATA #FIXED ''>
+
+]>
+<bookshelf>
+    <book id="001">
+        <title>tata</title>
+        <author>hutea</author>
+        <review>tararaa</review>
+        <rating>23</rating>
+    </book>
+</bookshelf>

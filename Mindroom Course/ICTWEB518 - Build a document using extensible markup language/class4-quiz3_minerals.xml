@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE minerals [
+    <!ELEMENT minerals (mineral)+>
+    <!ATTLIST minerals xmlns CDATA #FIXED ''>
+
+    <!ELEMENT mineral (name,planets,properties)>
+    <!ATTLIST mineral xmlns CDATA #FIXED '' id NMTOKEN #REQUIRED>
+
+    <!ELEMENT planets (planet)+>
+    <!ATTLIST planets xmlns CDATA #FIXED ''>
+    <!ELEMENT planet (#PCDATA)>
+    <!ATTLIST planet xmlns CDATA #FIXED ''>
+
+    <!ELEMENT properties (propertie)+>
+    <!ATTLIST properties xmlns CDATA #FIXED ''>
+    <!ELEMENT propertie (name,value)>
+    <!ATTLIST propertie xmlns CDATA #FIXED '' id NMTOKEN #REQUIRED>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST name xmlns CDATA #FIXED ''>
+    <!ELEMENT value (#PCDATA)>
+    <!ATTLIST value xmlns CDATA #FIXED ''>
+]>
+<minerals>
+    <mineral id="releiam">
+        <name>Conductive Borcarbitic Copper</name>
+        <planets>
+            <planet>Corellia</planet>
+        </planets>
+        <properties>
+            <propertie id="CR">
+                <name>Cold Resistance</name>
+                <value>42</value>
+            </propertie>
+            <propertie id="CD">
+                <name>Conductivity</name>
+                <value>364</value>
+            </propertie>
+            <propertie id="DR">
+                <name>Decay Resistance</name>
+                <value>933</value>
+            </propertie>
+            <propertie id="HR">
+                <name>Heat Resistance</name>
+                <value>468</value>
+            </propertie>
+            <propertie id="MA">
+                <name>Malleability</name>
+                <value>168</value>
+            </propertie>
+            <propertie id="OQ">
+                <name>Overall Quality</name>
+                <value>586</value>
+            </propertie>
+            <propertie id="SR">
+                <name>Shock Resistance</name>
+                <value>586</value>
+            </propertie>
+            <propertie id="UT">
+                <name>Unit Toughness</name>
+                <value>884</value>
+            </propertie>
+        </properties>
+    </mineral>
+    <mineral id="pheigieian">
+        <name>Thallium Copper</name>
+        <planets>
+            <planet>Corellia</planet>
+            <planet>Dantooine</planet>
+            <planet>Dathomir</planet>
+            <planet>Endor</planet>
+            <planet>Lok</planet>
+            <planet>Naboo</planet>
+            <planet>Talus</planet>
+            <planet>Yavin 4</planet>
+        </planets>
+        <properties>
+            <propertie id="CR">
+                <name>Cold Resistance</name>
+                <value>144</value>
+            </propertie>
+            <propertie id="CD">
+                <name>Conductivity</name>
+                <value>583</value>
+            </propertie>
+            <propertie id="DR">
+                <name>Decay Resistance</name>
+                <value>129</value>
+            </propertie>
+            <propertie id="HR">
+                <name>Heat Resistance</name>
+                <value>279</value>
+            </propertie>
+            <propertie id="MA">
+                <name>Malleability</name>
+                <value>589</value>
+            </propertie>
+            <propertie id="OQ">
+                <name>Overall Quality</name>
+                <value>633</value>
+            </propertie>
+            <propertie id="SR">
+                <name>Shock Resistance</name>
+                <value>352</value>
+            </propertie>
+            <propertie id="UT">
+                <name>Unit Toughness</name>
+                <value>347</value>
+            </propertie>
+        </properties>
+    </mineral>
+</minerals>

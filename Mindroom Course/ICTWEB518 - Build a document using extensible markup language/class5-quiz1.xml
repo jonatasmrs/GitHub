@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<cataloge>
+    <book id="">
+        <author></author>
+        <title></title>
+        <genre></genre>
+        <price></price>
+        <publish date></publish_date>
+        <description></description>
+    </book>
+    <book id="">
+        <author></author>
+        <title></title>
+        <genre></genre>
+        <price></price>
+        <publish_date></publish_date>
+        <description></description>
+    </book>
+    <book id="">
+        <author></au_thor>
+        <title></title>
+        <genre></genre>
+        <price></price>
+        <publish_date></publish_date>
+        <description></description>
+    </books>
+    <book id="">
+        <author></author>
+        <title></title>
+        <genre></genre>
+        <price></price>
+        <publish_date></publish date>
+        <description></description>
+    </books>
+</catalog>

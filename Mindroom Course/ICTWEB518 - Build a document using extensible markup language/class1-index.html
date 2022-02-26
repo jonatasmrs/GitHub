@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewreport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+    <p id="demoOutPut"></p>
+    <script>
+        var parser, xmlDoc;
+        var text =
+            "<stock><product barcode='123456789'>" +
+            "<manufacturer>Silicon Power</manufacturer>" +
+            "<name>Silicon Power 2TB P34A80 Gen3x4 TLC R/W up to 3,400/3,000MB/s PCIe M.2 NVMe SSD</name>" +
+            "<quantity>50</quantity>" +
+            "<size>N/A</size>" +
+            "<colour>N/A</colour>" +
+            "<price>349</price>" +
+            "<description>Silicon Power 2TB P34A80 Gen3x4 TLC R/W up to 3,100/1,100 MB/s PCIe M.2 NVMe SSD</description>" +
+            "</product>" +
+            "<product barcode='987654321'>" +
+            "<manufacturer>Lian Li</manufacturer>" +
+            "<name> Lian Li PC-O11 Dynamic XL ROG Certified Tempered Glass RGB EATX Case - Black</name>" +
+            "<quantity>10</quantity>" +
+            "<size>471(D)x286(W)x513(H)</size>" +
+            "<colour>N/A</colour>" +
+            "<price>319</price>" +
+            "<description> Lian Li PC-O11 Dynamic XL ROG Certified Tempered Glass RGB EATX Case - Black</description>" +
+            "</product></stock>"
+        parser = new DOMParser();
+        xmlDoc = parser.parseFromString(text, "text/xml");
+        /*
+        This example below is showing only one occurence of the element product
+        document.getElementById("demoOutPut").innerHTML = xmlDoc.getElementsByTagName("name")[1].childNodes[0].nodeValue;
+        */
+
+        /*  */
+        var outputString = " ";
+        var collection = xmlDoc.getElementsByTagName('name');
+        for (i = 0; i < collection.length; i++) {
+            outputString = outputString + collection[i].childNodes[0].nodeValue + "<br>";
+        }
+        document.getElementById("demoOutPut").innerHTML = outputString;
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.header {
+    width: 100vw;
+    height: 15vh;
+}
+
+.logo {
+    width: 20vw;
+    height: 15vh;
+    float: left;
+}
+
+.logo a {
+    border: o;
+}
+
+.navigation {
+    width: 50vw;
+    height: 10vh;
+    background-color: green;
+    float: right;
+}
+
+.sep {
+    width: 100vw;
+    height: 1vh;
+    background-color: black;
+}
+
+.content {
+    width: 100vw;
+    height: 73vh;
+    background-image: url(images/Cyberpunk-2077.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
+.contentCard {
+    width: 20vw;
+    height: 50vh;
+    margin-top: 10vh;
+    margin-left: 5vw;
+    position: absolute;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-top-left-radius: 2em;
+    border-bottom-left-radius: 5em;
+    padding: 1em;
+    line-height: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+hr {
+    border: 2px solid black;
+    margin: 1em;
+}
+
+footer {
+    width: 100vw;
+    height: 10vh;
+    background-color: dodgerblue;
+}

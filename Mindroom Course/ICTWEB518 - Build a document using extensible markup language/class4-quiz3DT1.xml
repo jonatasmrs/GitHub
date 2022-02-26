@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stock [
+    <!ELEMENT stock (product)+>
+    <!ATTLIST stock xmlns CDATA #FIXED ''>
+    <!ELEMENT product (manufacturer,name,quantity,size,colour,price,description)>
+    <!ATTLIST product xmlns CDATA #FIXED '' barcode CDATA #REQUIRED>
+    <!ELEMENT manufacturer (#PCDATA)>
+    <!ATTLIST manufacturer xmlns CDATA #FIXED ''>
+    <!ELEMENT name (#PCDATA)>
+    <!ATTLIST name xmlns CDATA #FIXED ''>
+    <!ELEMENT quantity (#PCDATA)>
+    <!ATTLIST quantity xmlns CDATA #FIXED ''>
+    <!ELEMENT size (#PCDATA)>
+    <!ATTLIST size xmlns CDATA #FIXED ''>
+    <!ELEMENT colour (#PCDATA)>
+    <!ATTLIST colour xmlns CDATA #FIXED ''>
+    <!ELEMENT price (#PCDATA)>
+    <!ATTLIST price xmlns CDATA #FIXED ''>
+    <!ELEMENT description (#PCDATA)>
+    <!ATTLIST description xmlns CDATA #FIXED ''>
+]>
+<stock>
+    <product barcode="12431131">
+        <manufacturer>Balter</manufacturer>
+        <name>Beer</name>
+        <quantity>12</quantity>
+        <size>12</size>
+        <colour>Brown</colour>
+        <price>10.2</price>
+        <description>Beer is good</description>
+    </product>
+    <product barcode="573642">
+        <manufacturer>Burleigh</manufacturer>
+        <name>Beer</name>
+        <quantity>11</quantity>
+        <size>11</size>
+        <colour>Brown</colour>
+        <price>10.5</price>
+        <description>Beer is good</description>
+    </product>
+</stock>
